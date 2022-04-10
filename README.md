@@ -1,1 +1,3 @@
-# colgaia
+- Olá , sou o @PaiPedro AKA Pedro Santos
+-Este repositório serve como espaço para colocar as fichas de técnicas de programaçao do ano 21/22 e possivelmente 22/23
+-Para futuros contactos pedromartinhosantos@gmail.com
