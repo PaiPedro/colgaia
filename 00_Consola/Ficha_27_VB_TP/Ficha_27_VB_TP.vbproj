@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Ficha_27_VB_TP</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+    <StartupObject>Ficha_27_VB_TP.Ex05</StartupObject>
+  </PropertyGroup>
+
+</Project>

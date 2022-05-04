@@ -1,0 +1,15 @@
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\bin\Debug\net6.0\Ficha_27_VB_TP.exe
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\bin\Debug\net6.0\Ficha_27_VB_TP.deps.json
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\bin\Debug\net6.0\Ficha_27_VB_TP.runtimeconfig.json
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\bin\Debug\net6.0\Ficha_27_VB_TP.dll
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\bin\Debug\net6.0\ref\Ficha_27_VB_TP.dll
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\bin\Debug\net6.0\Ficha_27_VB_TP.pdb
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\obj\Debug\net6.0\Ficha_27_VB_TP.vbproj.AssemblyReference.cache
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\obj\Debug\net6.0\Ficha_27_VB_TP.GeneratedMSBuildEditorConfig.editorconfig
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\obj\Debug\net6.0\Ficha_27_VB_TP.AssemblyInfoInputs.cache
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\obj\Debug\net6.0\Ficha_27_VB_TP.AssemblyInfo.vb
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\obj\Debug\net6.0\Ficha_27_VB_TP.vbproj.CoreCompileInputs.cache
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\obj\Debug\net6.0\Ficha_27_VB_TP.dll
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\obj\Debug\net6.0\ref\Ficha_27_VB_TP.dll
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\obj\Debug\net6.0\Ficha_27_VB_TP.pdb
+E:\fichas de visual basic Carlos\Ficha_27_VB_TP\obj\Debug\net6.0\Ficha_27_VB_TP.genruntimeconfig.cache
